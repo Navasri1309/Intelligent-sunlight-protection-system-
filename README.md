@@ -51,15 +51,15 @@ void loop()
 }
 ```
 ## Output:
-* Normal Light
-* Light State = 1
-* Servo Position = 0°
-* Shield Open
+ Normal Light
+ Light State = 1
+ Servo Position = 0°
+ Shield Open
 
-* Bright Light
-* Light State = 0
-* Servo Position = 90°
-* Shield Closed
+ Bright Light
+ Light State = 0
+ Servo Position = 90°
+ Shield Closed
 
 ## Created By
 
