@@ -67,5 +67,5 @@ void loop()
 
 ## Created By
 
-* Navasri B
-* B.Tech – Artificial Intelligence and Data Science
+# Navasri B
+# B.Tech – Artificial Intelligence and Data Science
