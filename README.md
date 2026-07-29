@@ -58,12 +58,17 @@ void loop()
  Shield Open
 ```
 
+<img width="1280" height="963" alt="WhatsApp Image 2026-07-28 at 9 26 26 PM" src="https://github.com/user-attachments/assets/620f9c77-9e15-489c-9734-5d0b1e01562e" />
+
 ```
  Bright Light
  Light State = 0
  Servo Position = 90°
  Shield Closed
 ```
+
+<img width="1280" height="963" alt="WhatsApp Image 2026-07-28 at 9 26 27 PM" src="https://github.com/user-attachments/assets/00332d44-5f93-4409-afae-a3205b103fd3" />
+
 
 ## Created By:
 
